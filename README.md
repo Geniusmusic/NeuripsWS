@@ -1,1 +1,2 @@
-Please Click index.md for demo page instruction
+Demo Page:
+https://geniusmusic.github.io/NeuripsWS/
