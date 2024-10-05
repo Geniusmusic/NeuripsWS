@@ -1,7 +1,5 @@
 # Introduction
-In this test, we are intersted in the performance of LLM generated script for teaser and the performance of our generated teaser.
-
-Note: Please select Version A on the first question of the survery. Thanks!
+Demo Page
 
 # Section 1:
 
